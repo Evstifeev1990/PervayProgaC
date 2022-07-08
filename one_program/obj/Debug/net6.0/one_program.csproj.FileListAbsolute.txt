@@ -1,0 +1,15 @@
+/Users/aroslavevstifeev/Desktop/GeekBrains/C-шарп/one_program/bin/Debug/net6.0/one_program
+/Users/aroslavevstifeev/Desktop/GeekBrains/C-шарп/one_program/bin/Debug/net6.0/one_program.deps.json
+/Users/aroslavevstifeev/Desktop/GeekBrains/C-шарп/one_program/bin/Debug/net6.0/one_program.runtimeconfig.json
+/Users/aroslavevstifeev/Desktop/GeekBrains/C-шарп/one_program/bin/Debug/net6.0/one_program.dll
+/Users/aroslavevstifeev/Desktop/GeekBrains/C-шарп/one_program/bin/Debug/net6.0/one_program.pdb
+/Users/aroslavevstifeev/Desktop/GeekBrains/C-шарп/one_program/obj/Debug/net6.0/one_program.csproj.AssemblyReference.cache
+/Users/aroslavevstifeev/Desktop/GeekBrains/C-шарп/one_program/obj/Debug/net6.0/one_program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aroslavevstifeev/Desktop/GeekBrains/C-шарп/one_program/obj/Debug/net6.0/one_program.AssemblyInfoInputs.cache
+/Users/aroslavevstifeev/Desktop/GeekBrains/C-шарп/one_program/obj/Debug/net6.0/one_program.AssemblyInfo.cs
+/Users/aroslavevstifeev/Desktop/GeekBrains/C-шарп/one_program/obj/Debug/net6.0/one_program.csproj.CoreCompileInputs.cache
+/Users/aroslavevstifeev/Desktop/GeekBrains/C-шарп/one_program/obj/Debug/net6.0/one_program.dll
+/Users/aroslavevstifeev/Desktop/GeekBrains/C-шарп/one_program/obj/Debug/net6.0/refint/one_program.dll
+/Users/aroslavevstifeev/Desktop/GeekBrains/C-шарп/one_program/obj/Debug/net6.0/one_program.pdb
+/Users/aroslavevstifeev/Desktop/GeekBrains/C-шарп/one_program/obj/Debug/net6.0/one_program.genruntimeconfig.cache
+/Users/aroslavevstifeev/Desktop/GeekBrains/C-шарп/one_program/obj/Debug/net6.0/ref/one_program.dll

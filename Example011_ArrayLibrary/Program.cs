@@ -28,3 +28,29 @@ int[] array = new int[10];
 
 FillArray(array);
 PrintArray(array);
+Console.WriteLine();
+
+int IndexOf (int[] massifof, int fide)
+{
+    int lenght = massifof.Length;
+
+    int index = 0;
+
+    int nomerIndex = -1;
+
+    while(index<lenght)
+    {
+        if(massifof[index] == fide)
+        {
+            nomerIndex = index;
+        }
+
+        index++;
+       
+    }
+return nomerIndex;
+
+}
+
+int pos = IndexOf(array, 6);
+Console.WriteLine(pos);
